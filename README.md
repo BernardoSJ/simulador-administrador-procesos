@@ -14,4 +14,4 @@ Este simulador representa los distintos estados en los que se puede encontrar un
 <br>
 Este simulador fue realizado por:<br>
 Programador: Bernardo Salinas<br>
-Diseñadores: @xXJaimeAndresXx y @lDavidGv
+Diseñadores: @xXJaimeAndresXx Jaime de la Cruz y @lDavidGv David Gonzalez
